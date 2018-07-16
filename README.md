@@ -12,7 +12,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/cjtterabytesoft/sidebar/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/cjtterabytesoft/sidebar/?branch=master)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/cjtterabytesoft/sidebar/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 [![Maintainability](https://api.codeclimate.com/v1/badges/384c1ea75948affef3b6/maintainability)](https://codeclimate.com/github/cjtterabytesoft/sidebar/maintainability)
-[![Github All Releases](https://img.shields.io/github/downloads/cjtterabytesoft/sidebar/total.svg)](https://github.com/cjtterabytesoft/sidebar)
+[![Total Downloads](https://poser.pugx.org/cjtterabytesoft/sidebar/downloads)](https://packagist.org/packages/cjtterabytesoft/sidebar)
 
 
 
@@ -79,4 +79,4 @@ composer global require friendsofphp/php-cs-fixer
 
 **LICENSE:**
 
-[![GitHub license](https://img.shields.io/github/license/cjtterabytesoft/sidebar.svg)](https://github.com/cjtterabytesoft/sidebar/blob/master/LICENSE.md)
+[![License](https://poser.pugx.org/cjtterabytesoft/sidebar/license)](https://packagist.org/packages/cjtterabytesoft/sidebar)
